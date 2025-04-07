@@ -6,6 +6,9 @@ public static class Calculator
    }
 
    public static void Sub(){}
+
+   public static void Div(){}
    
    public static void Multi(){}
+
 }
